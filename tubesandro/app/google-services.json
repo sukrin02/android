@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "870690931165",
+    "firebase_url": "https://tubesandro-2d671.firebaseio.com",
+    "project_id": "tubesandro-2d671",
+    "storage_bucket": "tubesandro-2d671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870690931165:android:d0a3b102b66ef78a",
+        "android_client_info": {
+          "package_name": "mobile.tubes.polinema.com.tubesandro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870690931165-vq47aq5i76tnec4n7boq5kj5c1k1u2f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTmX1jpQUG6SISNBhWZGr6K_iqUx8Dqf4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
